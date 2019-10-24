@@ -1,0 +1,33 @@
+.main {
+    width: 600px;
+    color: black;
+    padding: 100px;
+    margin: auto;
+    background-color: white;
+}
+
+body {
+    background-color: aquamarine
+}
+
+.main2 {
+    color: aquamarine;
+    font-size: 50px;
+}
+
+
+
+.btn1 {
+    background-color: aquamarine;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+.main3 {
+    border: dotted;
+    padding: 10px;
+}
